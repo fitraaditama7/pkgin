@@ -1,4 +1,4 @@
-module fitraaditama7/pkgin
+module github.com/fitraaditama7/pkgin
 
 go 1.16
 

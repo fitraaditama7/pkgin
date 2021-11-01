@@ -2,13 +2,13 @@ package server
 
 import (
 	"context"
-	"fitraaditama7/pkgin/router"
 	"fmt"
 	"log"
 	"net"
 	"net/http"
 	"time"
 
+	"github.com/fitraaditama7/pkgin/router"
 	"golang.org/x/net/netutil"
 )
 
